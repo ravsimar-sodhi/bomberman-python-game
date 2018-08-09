@@ -1,10 +1,12 @@
 # Bomberman
 *A CLI based game implemented with special attention to OOP principles.*
 
-The game is run by the following command:
- ```python3 bomberman.py```
+The game is run by the following command
 
-The controls of the game are as follows:
+```python3 bomberman.py```
+
+The controls of the game are as follows
+
 |Command | Key|
 |----|-----|
 |UP | 'w'|
